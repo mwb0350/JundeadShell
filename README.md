@@ -2,6 +2,9 @@
 ***
 > 一个可以复活的Java内存马
 ***
+### Disclaimers
+该项目仅供学习、研究之用，禁止用于非法用途。
+
 ### Usage
 1.先根据环境修改配置文件
 >配置文件位置在: agent_starter.jar内部config目录下
